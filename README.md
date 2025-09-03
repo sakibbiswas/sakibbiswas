@@ -23,7 +23,7 @@ I enjoy creating efficient, user-friendly solutions and continuously learning ne
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/sazzadur rahman biswas sakib" target="blank">
+  <a href="https://www.linkedin.com/in/sazzadur-rahman-biswas-sakib-8a821a367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="sazzadur rahman biswas sakib" height="30" width="40" />
   </a>
 
@@ -32,7 +32,7 @@ I enjoy creating efficient, user-friendly solutions and continuously learning ne
   <img 
     align="center" 
     src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
-    alt="Email sakibsakib99880@gmail.com" 
+    alt="Email me" 
     height="30" 
     width="40" 
   />
