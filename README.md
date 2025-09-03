@@ -27,10 +27,17 @@ I enjoy creating efficient, user-friendly solutions and continuously learning ne
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="sazzadur rahman biswas sakib" height="30" width="40" />
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:sakibsakib99880@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="sakibsakib99880@gmail.com" height="30" width="40" />
-  </a>
+<!-- Gmail -->
+<a href="mailto:sakibsakib99880@gmail.com" target="_blank">
+  <img 
+    align="center" 
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+    alt="Email sakibsakib99880@gmail.com" 
+    height="30" 
+    width="40" 
+  />
+</a>
+
 
   <!-- WhatsApp -->
   <a href="https://wa.me/8801631479509" target="_blank">
